@@ -1,6 +1,5 @@
 package homework09;
 
-// ShowCar.java
 public class ShowCar extends Car {
     private int stars;
 
